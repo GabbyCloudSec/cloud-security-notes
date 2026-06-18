@@ -1,36 +1,50 @@
 # Cloud Security Notes
 
-Documentation and study notes covering cloud security concepts and AWS services.
+## Overview
 
-## Topics
+This repository contains notes and reference material covering cloud security concepts, best practices, and foundational topics related to securing cloud environments. The content serves as a study resource and knowledge base for continuous learning.
 
-- Identity and Access Management (IAM)
-- Security Groups
-- CloudTrail
-- Encryption
-- Least Privilege
+## Technologies and Platforms
 
-## Repository Structure
+* AWS
+* Linux
+* Git
+* VS Code
 
-```text
-cloud-security-notes
-│
-├── iam
-├── security-groups
-├── cloudtrail
-├── encryption
-└── least-privilege
-```
+## Topics Covered
 
-## Purpose
+* Shared Responsibility Model
+* Identity and Access Management (IAM)
+* Encryption Concepts
+* Security Best Practices
+* Logging and Monitoring
+* Network Security
+* Cloud Fundamentals
 
-Maintain organized notes while learning cloud security fundamentals and AWS best practices.
+## Skills Demonstrated
 
-## Technologies
+* Cloud Security Fundamentals
+* Documentation
+* Research
+* Security Concepts
+* Continuous Learning
+* Problem Solving
 
-- AWS
-- Linux
+## What I Learned
 
-## Status
+Building these notes strengthened my understanding of cloud security principles, access control, monitoring, and the importance of designing secure cloud environments.
 
-Active
+## Future Improvements
+
+* Add AWS security service notes
+* Include architecture diagrams
+* Expand networking concepts
+* Document incident response scenarios
+* Organize topics into structured sections
+
+## Author
+
+Gabriell Bedoy
+
+GitHub: https://github.com/GabbyCloudSec
+
