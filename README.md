@@ -1,16 +1,19 @@
 # Cloud Security Notes
 
+🔗 Part of my [Cloud Security Portfolio](https://gabbycloudsec.github.io)
+
 Cloud security notes focused on AWS fundamentals, identity and access management, logging, monitoring, network security, and secure cloud design concepts.
 
 ## What This Covers
 
 - AWS Shared Responsibility Model
 - Identity and access management
+- Least privilege principles
 - Encryption concepts
+- Security group configurations
 - Cloud security best practices
-- Logging and monitoring
+- Logging and monitoring (CloudTrail)
 - Network security fundamentals
-- Cloud security fundamentals
 
 ## Skills Practiced
 
